@@ -1,7 +1,5 @@
 # Meme Generator
 This is a meme generator app developed using flutter
-## APK
-[Meme Generator APK](https://drive.google.com/file/d/1rEy6d9rVcz6UoUEgtwUo-9JXT-I5oD13/view?usp=sharing)
 ## To run the app
 - Clone my repository
 - Open the project folder.
